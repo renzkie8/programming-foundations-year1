@@ -2,7 +2,7 @@
 
 Python fundamentals, pseudocode, flowcharts and introductory programming exercises.
 
-**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year:** Year 1
+**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year / Section:** Year 1 — BSCS 1-A
 
 ## Methodology
 
