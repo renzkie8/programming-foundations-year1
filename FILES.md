@@ -1,0 +1,40 @@
+# Available files
+
+- `.gitignore`
+- `A DAY IN MY LIFE 1.docx`
+- `ASSIGNMENT 2/Flowchart_1_Colico_Carl_Renz.jpg`
+- `ASSIGNMENT 2/Flowchart_2_Colico_Carl_Renz.jpg`
+- `ASSIGNMENT 2/Pseudocode_1_Colico_Carl_Renz.pdf`
+- `ASSIGNMENT 2/Pseudocode_2_Colico_Carl_Renz.pdf`
+- `CLEANING THE ROOM.docx`
+- `COLICO_ASSIGNMENT_1.pdf`
+- `COLICO_CARL_RENZ_prog_exer_1.py`
+- `COLICO_CARL_RENZ_prog_exer_2.py`
+- `CONTROL STRUCTURE OF LOOP AND ITERATION.docx`
+- `DATA.md`
+- `FLOWCHART.docx`
+- `Flowchart_1 true_Colico_Carl_Renz.jpg.png.jpg`
+- `Flowchart_1.0_Colico_Carl_Renz.jpg.png`
+- `Flowchart_1.1_Colico_Carl_Renz.jpg.png`
+- `Flowchart_1_Colico_Carl_Renz.jpg`
+- `Flowchart_2.1_Colico_Carl_Renz.jpg`
+- `Flowchart_2_Colico_Carl_Renz.jpg`
+- `GETTING READY FOR LUNC1.docx`
+- `GETTING READY FOR LUNC2.docx`
+- `GETTING READY FOR LUNCH.docx`
+- `INTRO TO PROGRAMMING TERMS OF FOUNDATION.docx`
+- `Increased Productivity.docx`
+- `PRACTICE IF STATEMENT.py`
+- `PRACTICE ITERATION.py`
+- `PRACTICE WHILE.py`
+- `PSEUDOCODE.docx`
+- `Pseudocode_1.0_Colico_Carl_Renz.pdf`
+- `Pseudocode_1_Colico_Carl_Renz.pdf`
+- `Pseudocode_2.0_Colico_Carl_Renz.pdf`
+- `Pseudocode_2.1_Colico_Carl_Renz.pdf`
+- `Pseudocode_2_Colico_Carl_Renz.pdf`
+- `README.md`
+- `REALL FLOWCHART.docx`
+- `To school.docx`
+- `VALIDATION.md`
+- `h.py`
